@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.WebApi", "MinutoSeguros.WebApi\MinutoSeguros.WebApi.csproj", "{20CAC77C-3EAB-467C-96EE-5E8DD56E0106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Repository", "MinutoSeguros.Repository\MinutoSeguros.Repository.csproj", "{71CC1E92-EC93-4BAF-B56D-5E9C0A888203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Application", "MinutoSeguros.Application\MinutoSeguros.Application.csproj", "{871DFD57-FB65-40FF-8372-1F222AA24AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Domain", "MinutoSeguros.Domain\MinutoSeguros.Domain.csproj", "{43756E95-5C8A-4306-B3C3-F8A8D234393A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSegurosTest", "MinutoSegurosTest\MinutoSegurosTest.csproj", "{968756B2-3877-488E-8D2D-410581992E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CAC77C-3EAB-467C-96EE-5E8DD56E0106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CAC77C-3EAB-467C-96EE-5E8DD56E0106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CAC77C-3EAB-467C-96EE-5E8DD56E0106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CAC77C-3EAB-467C-96EE-5E8DD56E0106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CC1E92-EC93-4BAF-B56D-5E9C0A888203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CC1E92-EC93-4BAF-B56D-5E9C0A888203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CC1E92-EC93-4BAF-B56D-5E9C0A888203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CC1E92-EC93-4BAF-B56D-5E9C0A888203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871DFD57-FB65-40FF-8372-1F222AA24AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871DFD57-FB65-40FF-8372-1F222AA24AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871DFD57-FB65-40FF-8372-1F222AA24AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871DFD57-FB65-40FF-8372-1F222AA24AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43756E95-5C8A-4306-B3C3-F8A8D234393A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43756E95-5C8A-4306-B3C3-F8A8D234393A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43756E95-5C8A-4306-B3C3-F8A8D234393A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43756E95-5C8A-4306-B3C3-F8A8D234393A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968756B2-3877-488E-8D2D-410581992E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968756B2-3877-488E-8D2D-410581992E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968756B2-3877-488E-8D2D-410581992E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968756B2-3877-488E-8D2D-410581992E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B4D05E-82FF-488A-89A3-DB3737B91D6A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\bin\Debug\netcoreapp3.1\MinutoSeguros.Domain.dll
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.csprojAssemblyReference.cache
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.AssemblyInfoInputs.cache
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.AssemblyInfo.cs
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\bin\Debug\netcoreapp3.1\MinutoSeguros.Repository.deps.json
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\bin\Debug\netcoreapp3.1\MinutoSeguros.Repository.dll
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\bin\Debug\netcoreapp3.1\MinutoSeguros.Repository.pdb
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\bin\Debug\netcoreapp3.1\MinutoSeguros.Domain.pdb
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.csproj.CoreCompileInputs.cache
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.csproj.CopyComplete
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.dll
+C:\Git\Minuto\oportunidade\MinutoSeguros.WebApi\MinutoSeguros.Repository\obj\Debug\netcoreapp3.1\MinutoSeguros.Repository.pdb
