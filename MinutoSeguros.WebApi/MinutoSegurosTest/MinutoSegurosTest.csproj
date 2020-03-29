@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MinutoSeguros.Application\MinutoSeguros.Application.csproj" />
     <ProjectReference Include="..\MinutoSeguros.Repository\MinutoSeguros.Repository.csproj" />
+    <ProjectReference Include="..\MinutoSeguros.WebApi\MinutoSeguros.WebApi.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,10 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.DependencyInjection;
 using MinutoSeguros.Application.Interfaces;
 using MinutoSeguros.Application.Services;
 using MinutoSeguros.Domain.Interfaces;
 using MinutoSeguros.Repository.Repositorys;
+using MinutoSeguros.WebApi.Controllers;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -14,6 +16,7 @@ namespace MinutoSegurosTest
     {
 
         public IBlogAppService blogAppService;
+        public BlogController blogController; 
 
         public CountWorsTest()
         {
@@ -30,9 +33,13 @@ namespace MinutoSegurosTest
 
 
         [Fact]
-        public void totalcountTest()
+        public void ReturnOKTest()
         {
+            blogController = new BlogController(blogAppService);
 
+            var result = blogController.getMainWords();
+
+            Assert.IsType<OkObjectResult>(result);
         }
 
 
